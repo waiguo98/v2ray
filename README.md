@@ -1,3 +1,11 @@
+部署方法
+
+git clone https://github.com/waiguo98/v2ray -b master
+cd v2ray
+chmod +x install.sh
+./install.sh local
+
+
 # v2ray
 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
 
